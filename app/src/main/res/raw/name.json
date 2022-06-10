@@ -1,0 +1,40 @@
+[
+  {
+    "categoryName": "Exclusive Discounted Deals",
+    "foodList": [
+      {
+        "name": "Cheese Panini & Tea",
+        "detail": "Chicken Cheese Panini 01 & Mix Tea 01",
+        "discountPrice": "Rs. 425.00",
+        "price": "Rs. 500.00",
+        "image": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2KL6JYQYH4I6REYMIWBYVUGXPI.jpg"
+      },
+      {
+        "name": "Sandwich & Cappuccino",
+        "detail": "Chicken tikka sandwich 01 & Cappuccino 01",
+        "discountPrice": "Rs. 560.15",
+        "price": "Rs. 659.00",
+        "image": "https://thumbor.thedailymeal.com/7MNjB8LCMtHYDqHkkJvx25RCW_s=//https://www.thedailymeal.com/sites/default/files/2015/05/15/6-fastfood-shutterstock_120162430.jpg"
+      }
+    ]
+  },
+  {
+    "categoryName": "Hello World",
+    "foodList": [
+      {
+        "name": "Cheese Panini & Tea",
+        "detail": "Chicken Cheese Panini 01 & Mix Tea 01",
+        "discountPrice": "Rs. 425.00",
+        "price": "Rs. 500.00",
+        "image": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2KL6JYQYH4I6REYMIWBYVUGXPI.jpg"
+      },
+      {
+        "name": "Sandwich & Cappuccino",
+        "detail": "Chicken tikka sandwich 01 & Cappuccino 01",
+        "discountPrice": "Rs. 560.15",
+        "price": "Rs. 659.00",
+        "image": "https://thumbor.thedailymeal.com/7MNjB8LCMtHYDqHkkJvx25RCW_s=//https://www.thedailymeal.com/sites/default/files/2015/05/15/6-fastfood-shutterstock_120162430.jpg"
+      }
+    ]
+  }
+]
